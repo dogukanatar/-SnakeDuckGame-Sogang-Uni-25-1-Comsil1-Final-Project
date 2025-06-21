@@ -19,7 +19,7 @@ Eat food to grow and get points!
 === FEATURES ===
 - Duck emoji for snake head (🦆)
 - Bigger game board (30x25)
-- Power-up system
+- Power-up system (⚡️)
 - Level progression every 50 points
 - Replay option when game ends
 - Dot pattern background
