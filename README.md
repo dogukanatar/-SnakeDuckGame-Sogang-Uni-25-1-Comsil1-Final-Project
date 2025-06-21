@@ -73,15 +73,13 @@ g++ -std=c++11 -o snake_game src/snake_game.cpp
 - **Compiler:** g++ with C++11 support
 - **Terminal:** Any standard terminal emulator
 
-## 🎓 Learning Outcomes
+## 🎓 What Did I Learn & Practice?
 
-This project demonstrates:
-- Array usage for coordinate management
+- Arrays and how to use them effectively
 - Real-time input handling
 - Game loop implementation
 - Collision detection algorithms
-- Function organization and modular programming
-- Console-based user interface design
+- Console-based UI design
 
 ## 📸 Screenshots
 
