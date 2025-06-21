@@ -1,12 +1,15 @@
-# 🐍 Snake Game - Final Project
+# 🐍 Snake & Duck 🦆 Game - COMSIL I - Final Project
 
-**Student:** ATAR DOGUKAN (20201961)  
-**Course:** Software Development Tools and Environment Practice  
+**Student:** AT** D*****N (2**1**1)  
+**Course:** 소프트웨어개발도구및환경실습 I
 **Date:** June 2025
 
 ## 🎮 About The Game
 
-A classic snake game implemented in C++ for my final project. The snake moves automatically and you control the direction. Eat food to grow and collect power-ups for bonus points!
+A classic snake game implemented in C++ for my final project.</br>
+The head of the snake is duck 🦆. Because why not? </br>
+The snake moves automatically and you control the direction. </br>
+Eat apple 🍎 to grow and collect power-ups ⚡️ for bonus points!
 
 ## ✨ Features
 
@@ -93,7 +96,7 @@ This project demonstrates:
 |..............................|
 +------------------------------+
 
-=== DOGUKAN'S SNAKE GAME ===
+=== SNAKE & DUCK GAME ===
 Score: 50 | Level: 2 | Length: 8
 ```
 
