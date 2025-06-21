@@ -136,11 +136,11 @@ void draw() {
     }
     
     if (foodX >= 0 && foodX < WIDTH && foodY >= 0 && foodY < HEIGHT) {
-        gameBoard[foodY][foodX] = '*';
+        gameBoard[foodY][foodX] = 'F';
     }
     
     if (powerUpActive && powerUpX >= 0 && powerUpX < WIDTH && powerUpY >= 0 && powerUpY < HEIGHT) {
-        gameBoard[powerUpY][powerUpX] = '+';
+        gameBoard[powerUpY][powerUpX] = 'P';
     }
     
     system("clear");
@@ -156,6 +156,10 @@ void draw() {
         for (int j = 0; j < WIDTH; j++) {
             if (i == snakeY[0] && j == snakeX[0]) {
                 cout << "🦆";
+            } else if (gameBoard[i][j] == 'F') {
+                cout << "🍎";
+            } else if (gameBoard[i][j] == 'P') {
+                cout << "⚡️";
             } else {
                 cout << gameBoard[i][j];
             }
@@ -172,9 +176,9 @@ void draw() {
     cout << endl;
     cout << "=== DOGUKAN'S SNAKE GAME ===" << endl;
     cout << "Score: " << score << " | Level: " << level << " | Length: " << length << endl;
-    cout << "Duck = Snake Head | o = Body | . = Empty | * = Food | + = Power-up" << endl;
+    cout << "🦆 = Snake Head | o = Body | . = Empty | 🍎 = Food | ⚡️ = Power-up" << endl;
     if (powerUpActive) {
-        cout << ">> POWER-UP AVAILABLE! Collect '+' for +25 bonus points!" << endl;
+        cout << ">> POWER-UP AVAILABLE! Collect '⚡️' for +25 bonus points!" << endl;
     }
     cout << "Controls: W(up) A(left) S(down) D(right) | X(quit)" << endl;
 }

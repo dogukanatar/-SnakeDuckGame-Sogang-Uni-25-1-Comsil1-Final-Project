@@ -21,8 +21,8 @@ A classic snake game implemented in C++ for my final project. The snake moves au
 
 - **W/A/S/D** - Change snake direction
 - **X** - Quit game
-- **Eat food (*)** - Grow snake and get 10 points
-- **Collect power-ups (+)** - Get 25 bonus points
+- **Eat food (🍎)** - Grow snake and get 10 points
+- **Collect power-ups (⚡️)** - Get 25 bonus points
 - **Avoid walls and yourself!**
 
 ## 🛠️ How to Compile & Run
@@ -53,8 +53,8 @@ g++ -std=c++11 -o snake_game src/snake_game.cpp
 |--------|-------------|
 | 🦆 | Snake head (duck) |
 | o | Snake body |
-| * | Food (+10 points) |
-| + | Power-up (+25 points) |
+| 🍎 | Food (+10 points) |
+| ⚡️ | Power-up (+25 points) |
 | . | Empty space |
 
 ## 🏆 Scoring System
@@ -87,9 +87,9 @@ This project demonstrates:
 |..............................|
 |......🦆ooo...................|
 |..............................|
-|............*.................|
+|............🍎................|
 |..............................|
-|..................+...........|
+|..................⚡️..........|
 |..............................|
 +------------------------------+
 
