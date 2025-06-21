@@ -99,4 +99,9 @@ Score: 50 | Level: 2 | Length: 8
 
 ---
 
-**Made with ❤️ for Software Development Course** 
+## Note from Dogukan 
+I've created this game because I like ducks. </br>
+Growing up the snake game was my favorite one on my mom's phone. </br>
+I wanted my final project before my graduation to be something meaningful. </br>
+
+Hope you enjoy playing it as well. It's just a simple game. Feel free to improve it. 
