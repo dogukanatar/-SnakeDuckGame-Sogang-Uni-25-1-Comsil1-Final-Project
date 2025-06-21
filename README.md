@@ -1,5 +1,4 @@
-# 🐍 Snake & Duck 🦆 Game </br> 
-# COMSIL I - Final Project
+# 🐍 Snake & Duck 🦆 Game | COMSIL I - Final Project
 
 **Student:** AT-- D-----N (2--1--1)  
 **Course:** 소프트웨어개발도구및환경실습 I
