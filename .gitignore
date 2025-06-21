@@ -1,0 +1,26 @@
+# Compiled executables
+snake_game
+snake_console
+snake_simple
+
+# Object files
+*.o
+obj/
+bin/
+
+# System files
+.DS_Store
+.history/
+.cursor/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log 
