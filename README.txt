@@ -1,10 +1,12 @@
-Snake Game - Final Project
-Student: ATAR DOGUKAN (20201961)
-Course: Software Development Tools and Environment Practice
+Snake & DUCK Game - Final Project
+Student: A**R D****AN (2****9*1)
+Course: 소프트웨어개발도구및환경실습 I Date: June 2025
 Date: June 2025
 
 === ABOUT THE GAME ===
-This is a simple snake game made in C++. The snake moves automatically and you control the direction. Eat food to grow and get points!
+This is a simple snake game made in C++. 
+The snake moves automatically and you control the direction. 
+Eat food to grow and get points!
 
 === HOW TO PLAY ===
 - W/A/S/D keys to change direction
@@ -36,8 +38,8 @@ D - Move Right
 X - Quit Game
 
 === SCORING ===
-Food: +10 points
-Power-up: +25 points
+Apple (🍎): +10 points
+Power-up (⚡️): +25 points
 Level up every 50 points
 
 === FILES ===
@@ -45,4 +47,6 @@ Level up every 50 points
 - README.txt - This file
 - Makefile - For compilation
 
-The game works on Mac/Linux terminals. Have fun playing! 
+I've created this game because I like ducks.
+Growing up the snake game was my favorite one on my mom's phone.
+I wanted my final project before my graduation to be something meaningful. 
